@@ -1,0 +1,10 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["javascript", "algorithms", "data-structures"],
+  "author": "goupaz",
+  "license": "ISC"
+}
